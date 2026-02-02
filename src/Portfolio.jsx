@@ -108,16 +108,16 @@ export default function Portfolio() {
 
         {/* SOCIAL ICONS */}
         <div className="flex gap-6 mt-10 text-gray-400">
-          <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+          <a href="https://github.com/imdebanjan" target="_blank">
             <FaGithub className="text-2xl hover:text-emerald-400 transition" />
           </a>
-          <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+          <a href="https://www.linkedin.com/in/debanjan11" target="_blank">
             <FaLinkedin className="text-2xl hover:text-emerald-400 transition" />
           </a>
-          <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+          <a href="https://x.com/debanjantwt" target="_blank">
             <FaXTwitter className="text-2xl hover:text-emerald-400 transition" />
           </a>
-          <a href="mailto:YOUR_EMAIL@gmail.com">
+          <a href="mailto:debanjanchakraborty108@gmail.com">
             <FaEnvelope className="text-2xl hover:text-emerald-400 transition" />
           </a>
         </div>
